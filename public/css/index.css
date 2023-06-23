@@ -29,8 +29,8 @@ input[type='checkbox']:checked >
 	background-color: blue;
 	color: white;
 }
-.card-body >
-.lesson-four-task-nine >
+
+.lesson-four-task-nine 
  p:lang(uk) {
 	color: blue;
 }
@@ -71,9 +71,17 @@ input:invalid {
 textarea:optional {
 	background-color: red;
 }
-.card-body >
-.lesson-four-task-eighteen > 
-.input:placeholder-shown {
+
+.lesson-four-task-sixteen input:out-of-range {
+	color: red;
+}
+
+.lesson-four-task-seventeen input:in-range {
+	color: red;
+}
+
+.lesson-four-task-eighteen 
+input:placeholder-shown {
 	background-color: red;
 }
 .card-body >
