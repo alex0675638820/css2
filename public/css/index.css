@@ -1,1 +1,91 @@
-
+.card-body > .lesson-four-task-one > button:hover{
+	background: yellow;
+	color: red;
+}
+.card-body > .lesson-four-task-two > a:hover{
+	background: green;
+}
+.card-body > .lesson-four-task-three > a:visited {
+	color: yellow;
+}
+.card-body > .lesson-four-task-four > #sidebar > a:link {
+	color: red;
+}
+.card-body > .lesson-four-task-five > button:active {
+	background: blue;
+}
+.card-body > .lesson-four-task-six > button:focus {
+	background: orange;
+	color: orangered;
+}
+.card-body > .lesson-four-task-seven > #target:target {
+	background: green;
+	color: white;
+}
+.card-body >
+.lesson-four-task-eight > 
+input[type='checkbox']:checked > 
+#target {
+	background-color: blue;
+	color: white;
+}
+.card-body >
+.lesson-four-task-nine >
+ p:lang(uk) {
+	color: blue;
+}
+.card-body >
+.lesson-four-task-ten > form >
+.form-group > 
+input:enabled {
+	background-color: yellow;
+	color: red;
+}
+.card-body >
+.lesson-four-task-eleven > 
+input:disabled {
+	background-color: yellow;
+}
+.card-body >
+.lesson-four-task-twelve > 
+input:read-write {
+	background-color: yellow;
+}
+.card-body >
+.lesson-four-task-thirteen > 
+input:read-only {
+	background-color: yellow;
+}
+.card-body >
+.lesson-four-task-fourteen > 
+input:valid {
+	background-color: green;
+}
+.card-body >
+.lesson-four-task-fourteen > 
+input:invalid {
+	background-color: red;
+}
+.card-body >
+.lesson-four-task-fifteen > form >
+textarea:optional {
+	background-color: red;
+}
+.card-body >
+.lesson-four-task-eighteen > 
+.input:placeholder-shown {
+	background-color: red;
+}
+.card-body >
+.lesson-four-task-nineteen >
+.btn-group >
+button:focus-within {
+	background-color: yellow;
+	color: white;
+}
+.card-body >
+.lesson-four-task-twenty > 
+form > label >
+input:invalid {
+	background-color: red;
+}
