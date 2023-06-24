@@ -2,7 +2,7 @@
 	background: yellow;
 	color: red;
 }
-.card-body > .lesson-four-task-two > a:hover{
+.card-body > .lesson-four-task-two > a:hover + h1{
 	background: green;
 }
 .card-body > .lesson-four-task-three > a:visited {
@@ -22,9 +22,9 @@
 	background: green;
 	color: white;
 }
-.card-body >
-.lesson-four-task-eight > 
-input[type='checkbox']:checked > 
+
+.lesson-four-task-eight 
+input[type='checkbox']:checked  +
 #target {
 	background-color: blue;
 	color: white;
